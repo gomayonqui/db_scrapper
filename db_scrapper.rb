@@ -55,3 +55,6 @@ class DbScrapper
     end
   end
 end
+
+
+DbScrapper.new.run
